@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-7l3.pages.dev/">
+    <a href="https://my-team-page-89w.pages.dev/">
       Demo
     </a>
     <span> | </span>
@@ -75,6 +75,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [yxsif.netlify.app](https://yxsif.netlify.app)
+- Website [yxsif.netlify.app](https://yxsif.pages.dev)
 - GitHub [yxsifdev](https://github.com/yxsifdev)
 - Twitter [@yxsifdev](https://twitter.com/yxsifdev)
