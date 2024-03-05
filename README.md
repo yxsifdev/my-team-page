@@ -75,6 +75,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [yxsif.netlify.app](https://yxsif.pages.dev)
+- Website [yxsif.pages.app](https://yxsif.pages.dev)
 - GitHub [yxsifdev](https://github.com/yxsifdev)
 - Twitter [@yxsifdev](https://twitter.com/yxsifdev)
